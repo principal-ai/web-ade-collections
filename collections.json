@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": 1,
   "collections": [
     {
       "id": "ws-ai-coding-agents",
@@ -12,7 +12,17 @@
       "metadata": {
         "curatedBy": "Principal AI",
         "featured": true
-      }
+      },
+      "repositories": [
+        "principal-forks/cline",
+        "principal-forks/codex",
+        "principal-forks/opencode",
+        "principal-forks/OpenHands",
+        "principal-forks/gemini-cli",
+        "principal-forks/grok-cli",
+        "principal-forks/humanlayer",
+        "principal-forks/agentic-flow"
+      ]
     },
     {
       "id": "ws-agent-orchestration",
@@ -25,7 +35,14 @@
       "metadata": {
         "curatedBy": "Principal AI",
         "featured": true
-      }
+      },
+      "repositories": [
+        "principal-forks/claude-flow",
+        "principal-forks/crewAI",
+        "principal-forks/langchain",
+        "principal-forks/AutoGPT",
+        "principal-forks/agent-ops"
+      ]
     },
     {
       "id": "ws-ai-infrastructure",
@@ -37,7 +54,13 @@
       "updatedAt": 1702400000000,
       "metadata": {
         "curatedBy": "Principal AI"
-      }
+      },
+      "repositories": [
+        "principal-forks/ollama",
+        "principal-forks/llama.cpp",
+        "principal-forks/transformers",
+        "principal-forks/onyx"
+      ]
     },
     {
       "id": "ws-developer-tools",
@@ -49,7 +72,16 @@
       "updatedAt": 1702400000000,
       "metadata": {
         "curatedBy": "Principal AI"
-      }
+      },
+      "repositories": [
+        "principal-forks/zed",
+        "principal-forks/ghostty",
+        "principal-forks/sentry",
+        "principal-forks/sourcebot",
+        "principal-forks/terraform",
+        "principal-forks/better-auth",
+        "principal-forks/supabase"
+      ]
     },
     {
       "id": "ws-ai-utilities",
@@ -61,7 +93,18 @@
       "updatedAt": 1702400000000,
       "metadata": {
         "curatedBy": "Principal AI"
-      }
+      },
+      "repositories": [
+        "principal-forks/beads",
+        "principal-forks/Fabric",
+        "principal-forks/Backlog.md",
+        "principal-forks/pdf-library",
+        "principal-forks/claude-telegram-mirror",
+        "principal-forks/dexter",
+        "principal-forks/next-ai-draw-io",
+        "principal-forks/omnara",
+        "principal-forks/epicenter"
+      ]
     },
     {
       "id": "ws-creative-business",
@@ -73,7 +116,15 @@
       "updatedAt": 1702400000000,
       "metadata": {
         "curatedBy": "Principal AI"
-      }
+      },
+      "repositories": [
+        "principal-forks/tldraw",
+        "principal-forks/orca-engine",
+        "principal-forks/midday",
+        "principal-forks/polar",
+        "principal-forks/Zero"
+      ]
     }
-  ]
+  ],
+  "updatedAt": 1766548159935
 }
